@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Midjourney API Docs
+    url: https://www.midjourney-api.com/getting-started
+    about: Start here for setup, API flow, and examples.
+  - name: Webhook Guide
+    url: https://www.midjourney-api.com/webhook
+    about: Use this guide if your question is about async callbacks or webhook handling.
+  - name: Pricing And Product Info
+    url: https://www.midjourney-api.com/pricing
+    about: Use this page for plan, billing, and usage questions.
