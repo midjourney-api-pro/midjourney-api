@@ -1,0 +1,11 @@
+{
+  "name": "midjourney-api-examples",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Example code for using Midjourney API in Node.js",
+  "scripts": {
+    "submit": "node nodejs/submit-job.js",
+    "poll": "node nodejs/poll-status.js",
+    "webhook": "node nodejs/webhook-server.js"
+  }
+}
